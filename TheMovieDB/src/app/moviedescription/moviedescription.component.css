@@ -1,5 +1,5 @@
 div {
     font-family: Tahoma, Geneva, sans-serif;
-    display: inline-block;
-    text-align: center;
+    display: flex;
+    flex-direction: wrap;
 }
